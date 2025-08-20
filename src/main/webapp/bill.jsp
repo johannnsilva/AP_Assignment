@@ -43,7 +43,7 @@
   nav a:hover { opacity:.7; }
   nav a:last-child { margin-left:auto; color:#ff6b6b; font-weight:600; }
 
-  /* Container */
+  /* new billContainer */
   .container {
     flex-grow:1;
     display:flex;
