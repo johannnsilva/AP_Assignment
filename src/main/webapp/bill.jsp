@@ -102,7 +102,7 @@
   }
   .btn:hover { transform:translateY(-2px); box-shadow:0 6px 18px rgba(0,0,0,0.25); }
 
-  /* Printable bill */
+  /*update and Printable bill */
   #printable {
     background:#fff;
     color:#000;
