@@ -133,7 +133,7 @@
 </head>
 <body>
 
-<!-- Navbar -->
+<!--update customer Navbar -->
 <nav>
     <div class="brand"><i class="fas fa-bolt"></i> PowerBilling</div>
     <div class="links">
