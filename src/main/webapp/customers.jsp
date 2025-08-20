@@ -23,7 +23,7 @@
         flex-direction: column;
     }
 
-    /* Modern Navbar */
+    /*update Modern Navbar */
     nav {
         background: #1e1e2f;
         padding: 15px 30px;
