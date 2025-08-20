@@ -41,7 +41,7 @@
   }
   nav a:hover { background: #ffd700; color: #1e1e2f; }
 
-  /* Container & card */
+  /* new Container & card */
   .container { flex: 1; display: flex; justify-content: center; align-items: center; padding: 40px 20px; }
   .card {
       background: #e0e5ec;
