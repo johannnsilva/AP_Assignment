@@ -18,7 +18,7 @@
     overflow: hidden;
   }
 
-  /* Animated background circles */
+  /*new Animated background circles */
   body::before, body::after {
     content: '';
     position: absolute;
