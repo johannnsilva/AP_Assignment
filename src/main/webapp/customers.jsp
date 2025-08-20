@@ -93,7 +93,7 @@
         color: #555;
     }
 
-    /* Highlight Account No */
+    /*update and Highlight Account No */
     .account-no {
         font-weight: bold;
         font-size: 0.95rem;
