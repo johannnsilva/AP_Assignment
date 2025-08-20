@@ -113,7 +113,7 @@
       resize: none;
   }
 
-  /* Button */
+  /* new Button */
   .btn {
       margin-top: 15px;
       padding: 14px 0;
