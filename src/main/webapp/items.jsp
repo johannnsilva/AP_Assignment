@@ -102,7 +102,7 @@
     transform: translateY(-2px);
   }
 
-  /* Responsive Table */
+  /*new Responsive Table */
   @media (max-width: 700px) {
     table, thead, tbody, th, td, tr { display: block; }
     thead { display: none; }
