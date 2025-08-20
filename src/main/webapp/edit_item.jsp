@@ -76,7 +76,7 @@
   }
   input:focus { outline: none; box-shadow: inset 3px 3px 6px #bebebe, inset -3px -3px 6px #ffffff, 0 0 8px #2575fc; }
 
-  /* Submit button */
+  /*new  Submit button */
   .btn {
       padding: 14px 0;
       border: none;
