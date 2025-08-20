@@ -81,7 +81,7 @@
       color: #1e1e2f;
   }
 
-  /* Form */
+  /*  edit Form */
   .form-row {
       margin-bottom: 20px;
       display: flex;
