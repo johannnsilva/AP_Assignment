@@ -62,7 +62,7 @@
         color: #1e1e2f;
     }
 
-    /* Customer Card Grid */
+    /* updateCustomer Card Grid */
     .grid {
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
