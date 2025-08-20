@@ -61,7 +61,7 @@
       color: #1e1e2f;
   }
 
-  /* Form */
+  /* new Form */
   form { display: flex; flex-direction: column; gap: 20px; }
   .form-row { display: flex; flex-direction: column; }
   label { margin-bottom: 8px; font-weight: 600; color: #555; }
