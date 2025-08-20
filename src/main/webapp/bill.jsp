@@ -23,7 +23,7 @@
     flex-direction:column;
   }
 
-  /* Navbar */
+  /* new bill Navbar */
   nav {
     backdrop-filter: blur(12px);
     background: rgba(255,255,255,0.1);
