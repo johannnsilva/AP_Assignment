@@ -102,7 +102,7 @@
         display: inline-block;
     }
 
-    /* Buttons */
+    /* new Buttons */
     .actions {
         margin-top: 15px;
     }
