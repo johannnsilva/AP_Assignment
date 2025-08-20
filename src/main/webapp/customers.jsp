@@ -124,7 +124,7 @@
     .btn-bill { background: #17a2b8; }
     .btn-bill:hover { background: #138496; }
 
-    /* Responsive tweak */
+    /* Responsive tweakk */
     @media (max-width: 600px) {
         nav .brand { font-size: 1.1rem; }
         .btn { font-size: 0.8rem; padding: 6px 10px; }
