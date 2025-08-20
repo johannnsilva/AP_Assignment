@@ -175,7 +175,7 @@
         <p>Manage your customers, items, and billing efficiently using the dashboard below.</p>
     </div>
 
-    <!-- Dashboard Cards -->
+    <!-- New Dashboard Cards -->
     <div class="dashboard-grid">
         <a href="customers" class="dash-card">
             <i class="fas fa-users"></i>
