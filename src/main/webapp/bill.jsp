@@ -121,7 +121,7 @@
   .total-row td { font-weight:700; background:#eef4ff; }
   .thankyou { text-align:center; margin-top:30px; font-weight:600; color:#333; }
 
-  /* Print mode */
+  /*new Print mode */
   @media print {
     body * { visibility:hidden; }
     #printable,#printable * { visibility:visible; }
