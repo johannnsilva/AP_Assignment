@@ -143,7 +143,7 @@
     </div>
 </nav>
 
-<!-- CustomerContent -->
+<!-- update CustomerContent -->
 <div class="container">
     <h1>Customer List</h1>
     <div class="grid">
