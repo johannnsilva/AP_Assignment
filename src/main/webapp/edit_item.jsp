@@ -96,7 +96,7 @@
       h1 { font-size: 1.6rem; }
       nav { flex-direction: column; gap: 15px; padding: 15px; }
   }
-   /*new  card */
+   /*new itemcard */
 </style>
 </head>
 <body>
