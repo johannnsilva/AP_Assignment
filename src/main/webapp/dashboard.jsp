@@ -108,7 +108,7 @@
       color: #555;
   }
 
-  /* Dashboard cards for navigation */
+  /* New Dashboard cards for navigation */
   .dashboard-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
