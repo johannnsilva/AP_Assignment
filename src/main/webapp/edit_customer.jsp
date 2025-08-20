@@ -51,7 +51,7 @@
       color: #1e1e2f;
   }
 
-  /* Container */
+  /* new Container */
   .container {
       flex: 1;
       display: flex;
